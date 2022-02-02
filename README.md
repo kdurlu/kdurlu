@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdurlu
-- 👀 I’m interested in Computer Sciences & Technologies
+- ✨ I’m interested in Computer Sciences & Technologies
 - 🌱 I’m currently learning Web and Native programming with React & React Native
-- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning
+- 👀 I’m looking to collaborate on Backend Programming
 - 📫 How to reach me -> koraydurlu@gmail.com
 
 <!---
