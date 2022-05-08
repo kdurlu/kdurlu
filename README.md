@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kdurlu
 - ✨ I’m interested in Computer Sciences & Technologies
-- 🌱 I’m currently learning Rust Programming & Blockchain Technologies
+- 🌱 I’m currently learning Solidity Programming & Blockchain Technologies
 - 👀 I’m looking to collaborate on WEB3.0 & Decentralized Applications
 - 📫 How to reach me -> koraydurlu@gmail.com
 
