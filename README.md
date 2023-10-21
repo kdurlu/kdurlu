@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdurlu
 - ✨ I’m interested in Computer Sciences & Technologies
-- 🌱 I’m currently learning Solidity Programming & Blockchain Technologies
-- 👀 I’m looking to collaborate on WEB3.0 & Decentralized Applications
+- 🌱 I’m currently learning IoT Applications on Matter over Thread
+- 👀 I’m looking to collaborate on Matter & Thread development
 - 📫 How to reach me -> koraydurlu@gmail.com
 
 <!---
